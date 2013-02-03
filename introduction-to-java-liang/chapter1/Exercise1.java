@@ -1,10 +1,10 @@
+package chapter1;
 /**
  * Display three messages: <br>
  * "Welcome to Java" <br>
  * "Welcome to Computer Science" <br>
  * "Programming is fun" <br>
  */
-package chapter1;
 
 public class Exercise1
 {
