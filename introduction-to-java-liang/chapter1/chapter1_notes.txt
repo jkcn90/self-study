@@ -1,0 +1,119 @@
+Liang Introduction to Java Programming
+
+Notes Chapter 1
+
+1.2 What is a Computer?
+An electronic device that stores and processes data.
+
+Vocabulary
+internal clock -- Emits electronic pulses at a constant rate that
+  synchronizes operations. Higher clock speed equates to more
+  instructions being executed each second.
+hertz (HZ) -- Clock speed in pulses per second.
+bits -- Binary Digits or the values that can be taken in the binary
+  number system: 0 and 1.
+byte -- Eight bits.
+
+Major Hardware Components
+Bus -- System that transfer data between components.
+CPU -- Retrieves and executes instructions from memory.
+  * Control Unit -- Controls and coordinates other components.
+  * Arithmetic/Logic Unit -- Performs numberic operations (+,-,*,/)
+Memory -- Data is stored in the hardware as configurations of on (1) and
+  off (0) states.
+  * A memory unit is an ordered sequence of bytes.
+  * Memory is volatile, as data is lost when power is turned off.
+  * Each byte has a unique address and can be accessed in any order.
+  * The memory is also known as Random Access Memory (RAM) for this
+  * reason.
+Storage Devices -- Programs and Data are permanently stored here.
+  * e.g. Disk Drives, CD drives, USB, etc...
+  * Data is moved to RAM before when needed for execution.
+  * RAM is much faster than Storage Devices.
+Input/Output Devices -- Allows the user to communicate with computer.
+  * e.g. Keyboard, mouse, monitors, printers, etc...
+Communication Devices -- Allow networking with other computers.
+  * e.g. Modems, DSL, wireless, etc...
+
+1.3 Programs (Software)
+Instructions that a computer can understand.
+
+Vocabulary
+Source Code -- Program written in a high level programming language.
+
+Types of Programming Languages
+1. Low Level Programming Languages
+Machine Language -- Build in primitive instructions.
+  * Interpreted as binary and understood by hardware.
+  * Machine dependent.
+  * Hard to understand and maintain.
+Assembly Language -- Mnemonics for machine language commands.
+  * 1-1 correspondence with machine language commands.
+  * Exceptions: Some macros for common sequences.
+  * Easier to remember and read than binary.
+  * Requires assembler to convert to machine language.
+  * Machine dependent.
+2. High Level Languages
+  * Machine independent languages.
+  * Closer to natural languages (easier to understand).
+  * e.g. COBOL, FORTRAN, BASIC, Pascal, ADA, VBA, Delphi, C++, Java.
+  * Must be compiled or interpreted to assembly/machine language.
+
+1.4 Operating Systems
+Program that is responsible for:
+  * Controlling and monitoring system activities.
+  * Allocating and assigning system resources.
+  * Scheduling operations.
+
+Multiprogramming -- Multiple programs run simultaneously.
+Multithreading -- Subtasks in a single program can run at the same time.
+Multiprocessing -- Two or more processors perform a single task.
+
+1.6 Java Language Specification, API, JDK
+Java Language Specification -- Technical definition of Java's syntax and
+  semantics.
+Application Program Interface (API) -- Java library that contains
+  predefined classes and interfaces.
+Java Development Toolkit JDK -- Set of programs for developing and
+  testing Java programs.
+
+1.7 Welcome.java
+
+import javax.swing.JOptionPane;
+
+public class Welcome {
+  public static void main(String[] args) {
+    // Display message Welcome!
+    System.out.println("Welcome!");
+
+    // Display message Welcome! in message dialog box.
+    JOptionPane.showMessageDialog(null, "Welcome!");
+    JOptionPane.showMessageDialog(null, "Welcome!", "Display Message", JOptionPanel.INFORMATION_MESSAGE);
+  }
+}
+
+Keywords
+public -- Determines access by other methods/classes.
+class -- Declares a class.
+static -- Declares static, does not need to be instantiated before use.
+void -- Returns nothing.
+main -- Declares main method.
+
+Comments
+// This is a line comment.
+/* This is a multi-
+   line comment */
+
+Errors:
+NoClassDefFoundError -- Indicates that the class does not exist.
+NoSuchMethodError -- Indicates missing main method.
+
+Notes
+Java is case sensitive.
+javac ClassName.java -- to compile
+java ClassName -- to run
+
+Source Code --> Byte Code --> Run by Java Virtual Machine.
+Byte code is the JVM's machine language.
+Source Code is compiled to Byte Code.
+Byte Code is interpreted.
