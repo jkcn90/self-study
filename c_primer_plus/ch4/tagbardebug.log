@@ -1,0 +1,602 @@
+2015-02-24 18:19:02.599751: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:02.599980: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:19:02.600079: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:02.600326: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:02.600579: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:02.600761: AutoUpdate finished successfully
+2015-02-24 18:19:06.115705: ToggleWindow called
+2015-02-24 18:19:06.115968: OpenWindow called with flags: ''
+2015-02-24 18:19:06.132009: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:19:06.132156: Still opening window, stopping processing
+2015-02-24 18:19:06.138801: InitWindow called with autoclose: 0
+2015-02-24 18:19:06.151907: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:19:06.152140: In Tagbar window, stopping processing
+2015-02-24 18:19:06.154118: Mapping keys
+2015-02-24 18:19:06.154978: InitWindow finished
+2015-02-24 18:19:06.155084: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:06.155207: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:19:06.155291: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:06.155462: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:06.155596: RenderContent called
+2015-02-24 18:19:06.155768: Redisplaying file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:06.155997: PrintKinds called
+2015-02-24 18:19:06.156109: Printing kind: d, number of (top-level) tags: 1
+2015-02-24 18:19:06.156309: Printing kind: p, number of (top-level) tags: 0
+2015-02-24 18:19:06.156417: Printing kind: g, number of (top-level) tags: 0
+2015-02-24 18:19:06.156524: Printing kind: e, number of (top-level) tags: 0
+2015-02-24 18:19:06.156631: Printing kind: t, number of (top-level) tags: 0
+2015-02-24 18:19:06.156735: Printing kind: s, number of (top-level) tags: 0
+2015-02-24 18:19:06.156832: Printing kind: u, number of (top-level) tags: 0
+2015-02-24 18:19:06.156942: Printing kind: m, number of (top-level) tags: 0
+2015-02-24 18:19:06.157036: Printing kind: v, number of (top-level) tags: 0
+2015-02-24 18:19:06.157144: Printing kind: f, number of (top-level) tags: 1
+2015-02-24 18:19:06.157632: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:06.157823: AutoUpdate finished successfully
+2015-02-24 18:19:06.158064: goto_win(): 2wincmd w, 0
+2015-02-24 18:19:06.158191: goto_win(): 2wincmd w, 0
+2015-02-24 18:19:06.168349: goto_win(): wincmd p, 0
+2015-02-24 18:19:06.176284: goto_win(): 2wincmd w, 1
+2015-02-24 18:19:06.176509: goto_win(): 2wincmd w, 1
+2015-02-24 18:19:06.176659: goto_win(): 1wincmd w, 1
+2015-02-24 18:19:06.177808: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:06.177972: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:19:06.178078: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:06.178286: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:06.178471: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:06.178705: AutoUpdate finished successfully
+2015-02-24 18:19:06.178896: OpenWindow finished
+2015-02-24 18:19:06.179023: ToggleWindow finished
+             2015-02-24 18:19:06.196337: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:06.196654: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:19:06.196771: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:06.197031: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:06.197216: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:06.197405: AutoUpdate finished successfully
+2015-02-24 18:19:08.509429: goto_win(): 2wincmd w, 1
+2015-02-24 18:19:08.509721: goto_win(): 1wincmd w, 1
+2015-02-24 18:19:08.510691: goto_win(): 2wincmd w, 1
+2015-02-24 18:19:08.511500: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:19:08.511768: In Tagbar window, stopping processing
+          2015-02-24 18:19:08.529964: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:19:08.530252: In Tagbar window, stopping processing
+2015-02-24 18:19:12.688724: RenderContent called
+2015-02-24 18:19:12.689057: Redisplaying file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:12.690140: PrintKinds called
+2015-02-24 18:19:12.690351: Printing kind: d, number of (top-level) tags: 1
+2015-02-24 18:19:12.690811: Printing kind: p, number of (top-level) tags: 0
+2015-02-24 18:19:12.691055: Printing kind: g, number of (top-level) tags: 0
+2015-02-24 18:19:12.691264: Printing kind: e, number of (top-level) tags: 0
+2015-02-24 18:19:12.691439: Printing kind: t, number of (top-level) tags: 0
+2015-02-24 18:19:12.691604: Printing kind: s, number of (top-level) tags: 0
+2015-02-24 18:19:12.691763: Printing kind: u, number of (top-level) tags: 0
+2015-02-24 18:19:12.691919: Printing kind: m, number of (top-level) tags: 0
+2015-02-24 18:19:12.692074: Printing kind: v, number of (top-level) tags: 0
+2015-02-24 18:19:12.692228: Printing kind: f, number of (top-level) tags: 1
+2015-02-24 18:19:13.872751: RenderContent called
+2015-02-24 18:19:13.873090: Redisplaying file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:13.874093: PrintKinds called
+2015-02-24 18:19:13.874318: Printing kind: d, number of (top-level) tags: 1
+2015-02-24 18:19:13.874763: Printing kind: p, number of (top-level) tags: 0
+2015-02-24 18:19:13.874974: Printing kind: g, number of (top-level) tags: 0
+2015-02-24 18:19:13.875153: Printing kind: e, number of (top-level) tags: 0
+2015-02-24 18:19:13.875326: Printing kind: t, number of (top-level) tags: 0
+2015-02-24 18:19:13.875489: Printing kind: s, number of (top-level) tags: 0
+2015-02-24 18:19:13.875648: Printing kind: u, number of (top-level) tags: 0
+2015-02-24 18:19:13.875804: Printing kind: m, number of (top-level) tags: 0
+2015-02-24 18:19:13.875959: Printing kind: v, number of (top-level) tags: 0
+2015-02-24 18:19:13.876113: Printing kind: f, number of (top-level) tags: 1
+2015-02-24 18:19:14.568948: RenderContent called
+2015-02-24 18:19:14.569299: Redisplaying file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:14.570272: PrintKinds called
+2015-02-24 18:19:14.570496: Printing kind: d, number of (top-level) tags: 1
+2015-02-24 18:19:14.570847: Printing kind: p, number of (top-level) tags: 0
+2015-02-24 18:19:14.571062: Printing kind: g, number of (top-level) tags: 0
+2015-02-24 18:19:14.571237: Printing kind: e, number of (top-level) tags: 0
+2015-02-24 18:19:14.571402: Printing kind: t, number of (top-level) tags: 0
+2015-02-24 18:19:14.571563: Printing kind: s, number of (top-level) tags: 0
+2015-02-24 18:19:14.571722: Printing kind: u, number of (top-level) tags: 0
+2015-02-24 18:19:14.571884: Printing kind: m, number of (top-level) tags: 0
+2015-02-24 18:19:14.572043: Printing kind: v, number of (top-level) tags: 0
+2015-02-24 18:19:14.572200: Printing kind: f, number of (top-level) tags: 1
+2015-02-24 18:19:15.328982: RenderContent called
+2015-02-24 18:19:15.329337: Redisplaying file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:15.330357: PrintKinds called
+2015-02-24 18:19:15.330635: Printing kind: d, number of (top-level) tags: 1
+2015-02-24 18:19:15.331012: Printing kind: p, number of (top-level) tags: 0
+2015-02-24 18:19:15.331265: Printing kind: g, number of (top-level) tags: 0
+2015-02-24 18:19:15.331449: Printing kind: e, number of (top-level) tags: 0
+2015-02-24 18:19:15.331621: Printing kind: t, number of (top-level) tags: 0
+2015-02-24 18:19:15.331782: Printing kind: s, number of (top-level) tags: 0
+2015-02-24 18:19:15.331999: Printing kind: u, number of (top-level) tags: 0
+2015-02-24 18:19:15.332315: Printing kind: m, number of (top-level) tags: 0
+2015-02-24 18:19:15.332599: Printing kind: v, number of (top-level) tags: 0
+2015-02-24 18:19:15.332895: Printing kind: f, number of (top-level) tags: 1
+2015-02-24 18:19:15.912802: RenderContent called
+2015-02-24 18:19:15.913143: Redisplaying file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:15.914314: PrintKinds called
+2015-02-24 18:19:15.914536: Printing kind: d, number of (top-level) tags: 1
+2015-02-24 18:19:15.915008: Printing kind: p, number of (top-level) tags: 0
+2015-02-24 18:19:15.915193: Printing kind: g, number of (top-level) tags: 0
+2015-02-24 18:19:15.915368: Printing kind: e, number of (top-level) tags: 0
+2015-02-24 18:19:15.915593: Printing kind: t, number of (top-level) tags: 0
+2015-02-24 18:19:15.915793: Printing kind: s, number of (top-level) tags: 0
+2015-02-24 18:19:15.915980: Printing kind: u, number of (top-level) tags: 0
+2015-02-24 18:19:15.916167: Printing kind: m, number of (top-level) tags: 0
+2015-02-24 18:19:15.916425: Printing kind: v, number of (top-level) tags: 0
+2015-02-24 18:19:15.916600: Printing kind: f, number of (top-level) tags: 1
+2015-02-24 18:19:20.304914: RenderContent called
+2015-02-24 18:19:20.305245: Redisplaying file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:20.306305: PrintKinds called
+2015-02-24 18:19:20.306516: Printing kind: d, number of (top-level) tags: 1
+2015-02-24 18:19:20.307017: Printing kind: p, number of (top-level) tags: 0
+2015-02-24 18:19:20.307206: Printing kind: g, number of (top-level) tags: 0
+2015-02-24 18:19:20.307371: Printing kind: e, number of (top-level) tags: 0
+2015-02-24 18:19:20.307529: Printing kind: t, number of (top-level) tags: 0
+2015-02-24 18:19:20.307680: Printing kind: s, number of (top-level) tags: 0
+2015-02-24 18:19:20.307838: Printing kind: u, number of (top-level) tags: 0
+2015-02-24 18:19:20.307937: Printing kind: m, number of (top-level) tags: 0
+2015-02-24 18:19:20.308075: Printing kind: v, number of (top-level) tags: 0
+2015-02-24 18:19:20.308268: Printing kind: f, number of (top-level) tags: 1
+2015-02-24 18:19:23.297114: RenderContent called
+2015-02-24 18:19:23.298291: Redisplaying file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:23.298871: PrintKinds called
+2015-02-24 18:19:23.299079: Printing kind: d, number of (top-level) tags: 1
+2015-02-24 18:19:23.299546: Printing kind: p, number of (top-level) tags: 0
+2015-02-24 18:19:23.299688: Printing kind: g, number of (top-level) tags: 0
+2015-02-24 18:19:23.299801: Printing kind: e, number of (top-level) tags: 0
+2015-02-24 18:19:23.299905: Printing kind: t, number of (top-level) tags: 0
+2015-02-24 18:19:23.300006: Printing kind: s, number of (top-level) tags: 0
+2015-02-24 18:19:23.300107: Printing kind: u, number of (top-level) tags: 0
+2015-02-24 18:19:23.300207: Printing kind: m, number of (top-level) tags: 0
+2015-02-24 18:19:23.300306: Printing kind: v, number of (top-level) tags: 0
+2015-02-24 18:19:23.300404: Printing kind: f, number of (top-level) tags: 1
+2015-02-24 18:19:25.016964: RenderContent called
+2015-02-24 18:19:25.017320: Redisplaying file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:25.019058: PrintKinds called
+2015-02-24 18:19:25.019267: Printing kind: d, number of (top-level) tags: 1
+2015-02-24 18:19:25.019735: Printing kind: p, number of (top-level) tags: 0
+2015-02-24 18:19:25.019923: Printing kind: g, number of (top-level) tags: 0
+2015-02-24 18:19:25.020094: Printing kind: e, number of (top-level) tags: 0
+2015-02-24 18:19:25.020259: Printing kind: t, number of (top-level) tags: 0
+2015-02-24 18:19:25.020421: Printing kind: s, number of (top-level) tags: 0
+2015-02-24 18:19:25.020579: Printing kind: u, number of (top-level) tags: 0
+2015-02-24 18:19:25.020735: Printing kind: m, number of (top-level) tags: 0
+2015-02-24 18:19:25.020987: Printing kind: v, number of (top-level) tags: 0
+2015-02-24 18:19:25.021142: Printing kind: f, number of (top-level) tags: 1
+          2015-02-24 18:19:29.038131: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:19:29.038449: In Tagbar window, stopping processing
+2015-02-24 18:19:56.777165: CloseWindow called
+2015-02-24 18:19:56.787202: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:56.787439: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:19:56.787577: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:56.787778: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:56.787958: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:56.788145: AutoUpdate finished successfully
+2015-02-24 18:19:56.788255: goto_win(): wincmd p, 0
+2015-02-24 18:19:56.788405: CloseWindow finished
+             2015-02-24 18:19:56.806572: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:56.806788: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:19:56.806896: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:56.807102: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:56.807280: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:19:56.807466: AutoUpdate finished successfully
+2015-02-24 18:19:59.117194: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/]
+2015-02-24 18:19:59.117401: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:19:59.118248: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/]
+2015-02-24 18:19:59.118406: File not readable
+2015-02-24 18:19:59.118507: Not a valid file, stopping processing
+                  2015-02-24 18:19:59.140637: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/]
+2015-02-24 18:19:59.140880: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:19:59.141020: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/]
+2015-02-24 18:19:59.141180: File not readable
+2015-02-24 18:19:59.141296: Not a valid file, stopping processing
+2015-02-24 18:20:00.359116: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:00.359307: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:00.360040: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:00.360287: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:00.360488: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:00.360678: AutoUpdate finished successfully
+             2015-02-24 18:20:00.370160: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:00.370428: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:00.370574: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:00.370809: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:00.370994: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:00.371243: AutoUpdate finished successfully
+2015-02-24 18:20:02.618921: ToggleWindow called
+2015-02-24 18:20:02.619299: OpenWindow called with flags: ''
+2015-02-24 18:20:02.629136: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:02.629313: Still opening window, stopping processing
+2015-02-24 18:20:02.637419: InitWindow called with autoclose: 0
+2015-02-24 18:20:02.652197: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:02.652402: In Tagbar window, stopping processing
+2015-02-24 18:20:02.654083: InitWindow finished
+2015-02-24 18:20:02.654229: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:02.654386: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:02.654485: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:02.654707: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:02.654998: RenderContent called
+2015-02-24 18:20:02.655257: Redisplaying file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:02.655918: PrintKinds called
+2015-02-24 18:20:02.656037: Printing kind: d, number of (top-level) tags: 1
+2015-02-24 18:20:02.656443: Printing kind: p, number of (top-level) tags: 0
+2015-02-24 18:20:02.656562: Printing kind: g, number of (top-level) tags: 0
+2015-02-24 18:20:02.656669: Printing kind: e, number of (top-level) tags: 0
+2015-02-24 18:20:02.656770: Printing kind: t, number of (top-level) tags: 0
+2015-02-24 18:20:02.656927: Printing kind: s, number of (top-level) tags: 0
+2015-02-24 18:20:02.657038: Printing kind: u, number of (top-level) tags: 0
+2015-02-24 18:20:02.657234: Printing kind: m, number of (top-level) tags: 0
+2015-02-24 18:20:02.657384: Printing kind: v, number of (top-level) tags: 0
+2015-02-24 18:20:02.657506: Printing kind: f, number of (top-level) tags: 1
+2015-02-24 18:20:02.658024: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:02.658277: AutoUpdate finished successfully
+2015-02-24 18:20:02.658544: goto_win(): 2wincmd w, 0
+2015-02-24 18:20:02.658699: goto_win(): 2wincmd w, 0
+2015-02-24 18:20:02.678578: goto_win(): wincmd p, 0
+2015-02-24 18:20:02.684835: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:02.685113: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:02.685272: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:02.686270: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:02.686398: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:02.686478: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:02.686642: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:02.686784: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:02.686953: AutoUpdate finished successfully
+2015-02-24 18:20:02.687088: OpenWindow finished
+2015-02-24 18:20:02.687173: ToggleWindow finished
+             2015-02-24 18:20:02.710999: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:02.711227: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:02.711365: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:02.711613: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:02.711826: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:02.712062: AutoUpdate finished successfully
+2015-02-24 18:20:03.916644: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:03.916897: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:03.917495: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:03.918079: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:03.918319: In Tagbar window, stopping processing
+          2015-02-24 18:20:03.948562: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:03.948907: In Tagbar window, stopping processing
+2015-02-24 18:20:06.657639: RenderContent called
+2015-02-24 18:20:06.657997: Redisplaying file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:06.658970: PrintKinds called
+2015-02-24 18:20:06.659194: Printing kind: d, number of (top-level) tags: 1
+2015-02-24 18:20:06.659664: Printing kind: p, number of (top-level) tags: 0
+2015-02-24 18:20:06.659840: Printing kind: g, number of (top-level) tags: 0
+2015-02-24 18:20:06.660000: Printing kind: e, number of (top-level) tags: 0
+2015-02-24 18:20:06.660153: Printing kind: t, number of (top-level) tags: 0
+2015-02-24 18:20:06.660303: Printing kind: s, number of (top-level) tags: 0
+2015-02-24 18:20:06.660455: Printing kind: u, number of (top-level) tags: 0
+2015-02-24 18:20:06.660602: Printing kind: m, number of (top-level) tags: 0
+2015-02-24 18:20:06.660719: Printing kind: v, number of (top-level) tags: 0
+2015-02-24 18:20:06.660816: Printing kind: f, number of (top-level) tags: 1
+2015-02-24 18:20:09.321855: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:09.322172: goto_win(): 2wincmd w, 0
+2015-02-24 18:20:09.335695: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:09.335945: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:09.336075: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:09.336588: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:09.336774: In Tagbar window, stopping processing
+2015-02-24 18:20:09.336892: goto_win(): wincmd p, 0
+2015-02-24 18:20:09.344375: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:09.344592: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:09.344705: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:09.345729: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:09.345948: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:09.346057: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:09.346238: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:09.346377: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:09.346534: AutoUpdate finished successfully
+2015-02-24 18:20:09.346791: goto_win(): 2wincmd w, 0
+2015-02-24 18:20:09.355244: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:09.355432: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:09.355536: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:09.355961: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:09.356167: In Tagbar window, stopping processing
+2015-02-24 18:20:09.356406: Highlight pattern: '/^\%4l\s*[▼▶ ][-+# ]\zs[^( ]\+\ze/'
+2015-02-24 18:20:09.356536: goto_win(): 1wincmd w, 0
+2015-02-24 18:20:09.362825: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:09.363023: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:09.363130: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:09.364090: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:09.364226: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:09.364314: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:09.364488: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:09.364639: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:09.364797: AutoUpdate finished successfully
+             2015-02-24 18:20:09.383686: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:09.383878: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:09.383972: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:09.384161: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:09.384324: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:09.384493: AutoUpdate finished successfully
+2015-02-24 18:20:12.891549: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:12.891761: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:12.892606: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:12.893201: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:12.893396: In Tagbar window, stopping processing
+                                                       2015-02-24 18:20:12.912807: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:12.913060: In Tagbar window, stopping processing
+2015-02-24 18:20:15.457951: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:15.458260: goto_win(): 2wincmd w, 0
+2015-02-24 18:20:15.470651: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:15.470984: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:15.471175: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:15.471859: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:15.472035: In Tagbar window, stopping processing
+2015-02-24 18:20:15.472194: goto_win(): wincmd p, 0
+2015-02-24 18:20:15.479350: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:15.479743: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:15.479969: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:15.481403: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:15.481692: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:15.481814: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:15.482029: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:15.482248: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:15.482496: AutoUpdate finished successfully
+2015-02-24 18:20:15.482787: goto_win(): 2wincmd w, 0
+2015-02-24 18:20:15.491708: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:15.491870: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:15.491974: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:15.492530: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:15.492690: In Tagbar window, stopping processing
+                                                       2015-02-24 18:20:15.497971: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:15.498214: In Tagbar window, stopping processing
+2015-02-24 18:20:16.945853: RenderContent called
+2015-02-24 18:20:16.946207: Redisplaying file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:16.947657: PrintKinds called
+2015-02-24 18:20:16.947860: Printing kind: d, number of (top-level) tags: 1
+2015-02-24 18:20:16.948313: Printing kind: p, number of (top-level) tags: 0
+2015-02-24 18:20:16.948488: Printing kind: g, number of (top-level) tags: 0
+2015-02-24 18:20:16.948647: Printing kind: e, number of (top-level) tags: 0
+2015-02-24 18:20:16.948891: Printing kind: t, number of (top-level) tags: 0
+2015-02-24 18:20:16.949130: Printing kind: s, number of (top-level) tags: 0
+2015-02-24 18:20:16.949276: Printing kind: u, number of (top-level) tags: 0
+2015-02-24 18:20:16.949405: Printing kind: m, number of (top-level) tags: 0
+2015-02-24 18:20:16.949532: Printing kind: v, number of (top-level) tags: 0
+2015-02-24 18:20:16.949654: Printing kind: f, number of (top-level) tags: 1
+2015-02-24 18:20:19.521700: RenderContent called
+2015-02-24 18:20:19.522055: Redisplaying file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:19.523240: PrintKinds called
+2015-02-24 18:20:19.523504: Printing kind: d, number of (top-level) tags: 1
+2015-02-24 18:20:19.523987: Printing kind: p, number of (top-level) tags: 0
+2015-02-24 18:20:19.524173: Printing kind: g, number of (top-level) tags: 0
+2015-02-24 18:20:19.524342: Printing kind: e, number of (top-level) tags: 0
+2015-02-24 18:20:19.524505: Printing kind: t, number of (top-level) tags: 0
+2015-02-24 18:20:19.524664: Printing kind: s, number of (top-level) tags: 0
+2015-02-24 18:20:19.524826: Printing kind: u, number of (top-level) tags: 0
+2015-02-24 18:20:19.524982: Printing kind: m, number of (top-level) tags: 0
+2015-02-24 18:20:19.525138: Printing kind: v, number of (top-level) tags: 0
+2015-02-24 18:20:19.525294: Printing kind: f, number of (top-level) tags: 1
+2015-02-24 18:20:21.386055: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:21.387226: goto_win(): 2wincmd w, 0
+2015-02-24 18:20:21.398251: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:21.398563: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:21.398757: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:21.399341: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:21.399589: In Tagbar window, stopping processing
+2015-02-24 18:20:21.399771: goto_win(): wincmd p, 0
+2015-02-24 18:20:21.407571: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:21.407874: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:21.408122: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:21.409791: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:21.410048: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:21.410206: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:21.410514: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:21.410908: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:21.411209: AutoUpdate finished successfully
+2015-02-24 18:20:21.411613: goto_win(): 2wincmd w, 0
+2015-02-24 18:20:21.421656: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:21.421950: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:21.422074: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:21.422593: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:21.422791: In Tagbar window, stopping processing
+                                                       2015-02-24 18:20:21.429472: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:21.429763: In Tagbar window, stopping processing
+2015-02-24 18:20:24.882312: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:24.882682: goto_win(): 2wincmd w, 0
+2015-02-24 18:20:24.894682: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:24.894904: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:24.895032: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:24.895749: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:24.896016: In Tagbar window, stopping processing
+2015-02-24 18:20:24.896196: goto_win(): wincmd p, 0
+2015-02-24 18:20:24.903638: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:24.903875: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:24.904010: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:24.905095: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:24.905360: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:24.905485: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:24.905693: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:24.905866: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:24.906091: AutoUpdate finished successfully
+2015-02-24 18:20:24.906417: goto_win(): 2wincmd w, 0
+2015-02-24 18:20:24.915891: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:24.916220: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:24.916409: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:24.916947: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:24.917136: In Tagbar window, stopping processing
+                                                       2015-02-24 18:20:24.922288: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:24.922578: In Tagbar window, stopping processing
+2015-02-24 18:20:25.458873: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:25.459109: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:25.459890: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:25.461088: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:25.461321: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:25.461430: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:25.461616: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:25.461771: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:25.461936: AutoUpdate finished successfully
+             2015-02-24 18:20:25.481332: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:25.481518: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:25.481611: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:25.481796: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:25.481951: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:25.482120: AutoUpdate finished successfully
+2015-02-24 18:20:27.268786: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:27.269020: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:27.269679: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:27.270324: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:27.270521: In Tagbar window, stopping processing
+                                                       2015-02-24 18:20:27.288824: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:27.289059: In Tagbar window, stopping processing
+2015-02-24 18:20:28.642396: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:28.642741: goto_win(): 2wincmd w, 0
+2015-02-24 18:20:28.654198: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:28.654438: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:28.654567: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:28.655087: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:28.655258: In Tagbar window, stopping processing
+2015-02-24 18:20:28.655394: goto_win(): wincmd p, 0
+2015-02-24 18:20:28.662071: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:28.662231: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:28.662334: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:28.663392: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:28.663624: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:28.663769: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:28.664065: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:28.664315: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:28.664667: AutoUpdate finished successfully
+2015-02-24 18:20:28.665126: goto_win(): 2wincmd w, 0
+2015-02-24 18:20:28.675285: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:28.675625: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:28.675756: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:28.676235: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:28.676390: In Tagbar window, stopping processing
+2015-02-24 18:20:28.676564: Highlight pattern: '/^\%7l\s*[▼▶ ][-+# ]\zs[^( ]\+\ze/'
+2015-02-24 18:20:28.676689: goto_win(): 1wincmd w, 0
+2015-02-24 18:20:28.682805: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:28.682966: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:28.683064: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:28.684116: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:28.684304: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:28.684423: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:28.684620: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:28.684787: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:28.684954: AutoUpdate finished successfully
+2015-02-24 18:20:28.697969: goto_win(): 2wincmd w, 0
+2015-02-24 18:20:28.706168: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:28.706362: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:28.706473: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:28.706905: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:28.707051: In Tagbar window, stopping processing
+          2015-02-24 18:20:28.727066: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:28.727308: In Tagbar window, stopping processing
+2015-02-24 18:20:29.002567: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:29.002836: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:29.003571: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:29.004758: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:29.004911: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:29.005008: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:29.005207: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:29.005375: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:29.005544: AutoUpdate finished successfully
+             2015-02-24 18:20:29.026026: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:29.026230: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:29.026330: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:29.026529: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:29.026685: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:29.026854: AutoUpdate finished successfully
+2015-02-24 18:20:30.222384: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:30.222656: goto_win(): 1wincmd w, 1
+2015-02-24 18:20:30.223217: goto_win(): 2wincmd w, 1
+2015-02-24 18:20:30.223863: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:30.224072: In Tagbar window, stopping processing
+          2015-02-24 18:20:30.245397: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/__Tagbar__]
+2015-02-24 18:20:30.245767: In Tagbar window, stopping processing
+2015-02-24 18:20:31.106052: CloseWindow called
+2015-02-24 18:20:31.115437: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:31.115597: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:31.115695: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:31.115889: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:31.116067: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:31.116239: AutoUpdate finished successfully
+2015-02-24 18:20:31.116431: goto_win(): wincmd p, 0
+2015-02-24 18:20:31.116609: CloseWindow finished
+             2015-02-24 18:20:31.135750: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:31.135999: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:20:31.136132: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:31.136394: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:31.136569: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:20:31.136739: AutoUpdate finished successfully
+             2015-02-24 18:24:16.368988: AutoUpdate called [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:24:16.369277: Vim filetype: 'c', sanitized filetype: 'c'
+2015-02-24 18:24:16.370063: Checking if file is valid [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:24:16.370420: File data seems up to date [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:24:16.370727: Setting current file [/Users/jeffrey/c_primer_plus/ch4/talkback.c]
+2015-02-24 18:24:16.371013: AutoUpdate finished successfully
+                     2015-02-24 18:25:25.215798: AutoUpdate called [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.216094: Vim filetype: 'vim', sanitized filetype: 'vim'
+2015-02-24 18:25:25.216222: Checking if file is valid [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.216423: New file, processing [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.216568: ProcessFile called [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.216661: Checking if file is valid [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.217084: typeinfo for file to process: {'ctagstype': 'vim', 'ftype': 'vim', 'kinddict': {'a': 3, 'c': 4, 'f': 2, 'v': 1, 'm': 5, 'n': 0}, 'getKind': function('382'), 'createKinddict': function('383'), 'New': function('381'), 'kinds': [{'short': 'n', 'long': 'vimball filenames', 'fold': 0, 'stl': 1}, {'short': 'v', 'long': 'variables', 'fold': 1, 'stl': 0}, {'short': 'f', 'long': 'functions', 'fold': 0, 'stl': 1}, {'short': 'a', 'long': 'autocommand groups', 'fold': 1, 'stl': 1}, {'short': 'c', 'long': 'commands', 'fold': 0, 'stl': 0}, {'short': 'm', 'long': 'maps', 'fold': 1, 'stl': 0}]}
+2015-02-24 18:25:25.217812: ExecuteCtagsOnFile called [/var/folders/0f/2syfr18x0cd48pfvfzl5_gw00000gn/T/vTxStW4/14]
+2015-02-24 18:25:25.218052: EscapeCtagsCmd called
+2015-02-24 18:25:25.218153: ctags_bin: /usr/local/bin/ctags
+2015-02-24 18:25:25.218352: ctags_args (is a list): ['-f', '-', '--format=2', '--excmd=pattern', '--fields=nksSaf', '--extra=', '--sort=no', '--append=no', '--language-force=vim', '--vim-kinds=nvfacm']
+2015-02-24 18:25:25.218570: Escaped ctags command: '/usr/local/bin/ctags' '-f' '-' '--format=2' '--excmd=pattern' '--fields=nksSaf' '--extra=' '--sort=no' '--append=no' '--language-force=vim' '--vim-kinds=nvfacm' '/var/folders/0f/2syfr18x0cd48pfvfzl5_gw00000gn/T/vTxStW4/14'
+2015-02-24 18:25:25.218692: Executing ctags command: '/usr/local/bin/ctags' '-f' '-' '--format=2' '--excmd=pattern' '--fields=nksSaf' '--extra=' '--sort=no' '--append=no' '--language-force=vim' '--vim-kinds=nvfacm' '/var/folders/0f/2syfr18x0cd48pfvfzl5_gw00000gn/T/vTxStW4/14'
+2015-02-24 18:25:25.241518: Calling shell to execute: "('/usr/local/bin/ctags' '-f' '-' '--format=2' '--excmd=pattern' '--fields=nksSaf' '--extra=' '--sort=no' '--append=no' '--language-force=vim' '--vim-kinds=nvfacm' '/var/folders/0f/2syfr18x0cd48pfvfzl5_gw00000gn/T/vTxStW4/14') >/var/folders/0f/2syfr18x0cd48pfvfzl5_gw00000gn/T/vTxStW4/15 2>&1"
+2015-02-24 18:25:25.263009: Ctags executed successfully
+2015-02-24 18:25:25.263328: Filetype tag kinds: ['a', 'c', 'f', 'v', 'm', 'n']
+2015-02-24 18:25:25.263423: Parsing ctags output
+2015-02-24 18:25:25.266957: Number of top-level tags: 0
+2015-02-24 18:25:25.267216: Processing kind: n, number of tags: 0
+2015-02-24 18:25:25.267388: Processing kind: v, number of tags: 1
+2015-02-24 18:25:25.267609: Processing kind: f, number of tags: 0
+2015-02-24 18:25:25.267795: Processing kind: a, number of tags: 0
+2015-02-24 18:25:25.267936: Processing kind: c, number of tags: 5
+2015-02-24 18:25:25.268157: Processing kind: m, number of tags: 9
+2015-02-24 18:25:25.269506: Setting current file [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.269736: AutoUpdate finished successfully
+2015-02-24 18:25:25.276452: AutoUpdate called [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.276969: Vim filetype: 'vim', sanitized filetype: 'vim'
+2015-02-24 18:25:25.277428: Checking if file is valid [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.278046: File data seems up to date [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.278509: Setting current file [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.278852: AutoUpdate finished successfully
+2015-02-24 18:25:25.280177: AutoUpdate called [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.280341: Vim filetype: 'vim', sanitized filetype: 'vim'
+2015-02-24 18:25:25.280424: Checking if file is valid [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.280605: File data seems up to date [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.280764: Setting current file [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.280925: AutoUpdate finished successfully
+2015-02-24 18:25:25.329487: AutoUpdate called [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.329711: Vim filetype: 'vim', sanitized filetype: 'vim'
+2015-02-24 18:25:25.329822: Checking if file is valid [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.330029: File data seems up to date [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.330222: Setting current file [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:25.330406: AutoUpdate finished successfully
+                        2015-02-24 18:25:35.424514: AutoUpdate called [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:35.424703: Vim filetype: 'vim', sanitized filetype: 'vim'
+2015-02-24 18:25:35.425462: Checking if file is valid [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:35.425705: File data seems up to date [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:35.425909: Setting current file [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:35.426107: AutoUpdate finished successfully
+2015-02-24 18:25:38.106612: AutoUpdate called [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:38.106792: Vim filetype: 'vim', sanitized filetype: 'vim'
+2015-02-24 18:25:38.106881: Checking if file is valid [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:38.107046: File data outdated, updating [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:38.107128: ProcessFile called [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:38.107272: Checking if file is valid [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:38.107677: typeinfo for file to process: {'ctagstype': 'vim', 'ftype': 'vim', 'kinddict': {'a': 3, 'c': 4, 'f': 2, 'v': 1, 'm': 5, 'n': 0}, 'getKind': function('382'), 'createKinddict': function('383'), 'New': function('381'), 'kinds': [{'short': 'n', 'long': 'vimball filenames', 'fold': 0, 'stl': 1}, {'short': 'v', 'long': 'variables', 'fold': 1, 'stl': 0}, {'short': 'f', 'long': 'functions', 'fold': 0, 'stl': 1}, {'short': 'a', 'long': 'autocommand groups', 'fold': 1, 'stl': 1}, {'short': 'c', 'long': 'commands', 'fold': 0, 'stl': 0}, {'short': 'm', 'long': 'maps', 'fold': 1, 'stl': 0}]}
+2015-02-24 18:25:38.108127: ExecuteCtagsOnFile called [/var/folders/0f/2syfr18x0cd48pfvfzl5_gw00000gn/T/vTxStW4/22]
+2015-02-24 18:25:38.108289: EscapeCtagsCmd called
+2015-02-24 18:25:38.108364: ctags_bin: /usr/local/bin/ctags
+2015-02-24 18:25:38.108556: ctags_args (is a list): ['-f', '-', '--format=2', '--excmd=pattern', '--fields=nksSaf', '--extra=', '--sort=no', '--append=no', '--language-force=vim', '--vim-kinds=nvfacm']
+2015-02-24 18:25:38.108883: Escaped ctags command: '/usr/local/bin/ctags' '-f' '-' '--format=2' '--excmd=pattern' '--fields=nksSaf' '--extra=' '--sort=no' '--append=no' '--language-force=vim' '--vim-kinds=nvfacm' '/var/folders/0f/2syfr18x0cd48pfvfzl5_gw00000gn/T/vTxStW4/22'
+2015-02-24 18:25:38.109031: Executing ctags command: '/usr/local/bin/ctags' '-f' '-' '--format=2' '--excmd=pattern' '--fields=nksSaf' '--extra=' '--sort=no' '--append=no' '--language-force=vim' '--vim-kinds=nvfacm' '/var/folders/0f/2syfr18x0cd48pfvfzl5_gw00000gn/T/vTxStW4/22'
+2015-02-24 18:25:38.131483: Calling shell to execute: "('/usr/local/bin/ctags' '-f' '-' '--format=2' '--excmd=pattern' '--fields=nksSaf' '--extra=' '--sort=no' '--append=no' '--language-force=vim' '--vim-kinds=nvfacm' '/var/folders/0f/2syfr18x0cd48pfvfzl5_gw00000gn/T/vTxStW4/22') >/var/folders/0f/2syfr18x0cd48pfvfzl5_gw00000gn/T/vTxStW4/23 2>&1"
+2015-02-24 18:25:38.150465: Ctags executed successfully
+2015-02-24 18:25:38.150765: Filetype tag kinds: ['a', 'c', 'f', 'v', 'm', 'n']
+2015-02-24 18:25:38.150854: Parsing ctags output
+2015-02-24 18:25:38.154172: Number of top-level tags: 0
+2015-02-24 18:25:38.154291: Processing kind: n, number of tags: 0
+2015-02-24 18:25:38.154396: Processing kind: v, number of tags: 1
+2015-02-24 18:25:38.154551: Processing kind: f, number of tags: 0
+2015-02-24 18:25:38.154652: Processing kind: a, number of tags: 0
+2015-02-24 18:25:38.154749: Processing kind: c, number of tags: 5
+2015-02-24 18:25:38.154899: Processing kind: m, number of tags: 9
+2015-02-24 18:25:38.156116: Setting current file [/Users/jeffrey/.vimrc]
+2015-02-24 18:25:38.156277: AutoUpdate finished successfully
