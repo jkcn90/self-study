@@ -19,5 +19,6 @@ filtered_windspeeds = windspeeds[windspeeds != 35.1]
 plt.title('Average Wind Speeds in Selected US Cities')
 plt.xlabel('Average Wind Speeds (mph)')
 plt.ylabel('Frequency')
+plt.xticks(bins, rotation=45)
 
 plt.show()
