@@ -34,8 +34,8 @@ int read_column_numbers(int columns[], int max) {
     }
 
     if (num % 2 != 0) {
-        puts("Last column number is not paired.");
-        exit(EXIT_FAILURE);
+        columns[num] = MAX_INPUT;
+        num += 1;
     }
 
     while ((ch = getchar()) != EOF && ch != '\n')
@@ -54,12 +54,20 @@ void rearrange(char *output, char const *input, int n_columns, int const columns
     for (col = 0; col < n_columns; col += 2) {
         int nchars = columns[col + 1] - columns[col] + 1;
 
-        if (columns[col] >= len || output_col == MAX_INPUT - 1) {
+        if (columns[col] >= len) {
+            continue;
+        }
+
+        if (output_col == MAX_INPUT - 1) {
             break;
         }
 
         if (output_col + nchars > MAX_INPUT - 1) {
             nchars = MAX_INPUT - output_col - 1;
+        }
+
+        if (columns[col] + nchars >= len) {
+            nchars = len - columns[col];
         }
 
         strncpy(output + output_col, input + columns[col], nchars);
